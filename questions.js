@@ -629,7 +629,7 @@ numb: 49,
 	answer: "Solvent extracted edible flour",
 	options: [
 		"Solvent extracted edible flour",
-		"COld pressed edible flour",
+		"Cold pressed edible flour",
 		"Deoiled meal",
 		"Defatted meal",
 		"None of the above"
@@ -681,7 +681,7 @@ numb: 53,
 	answer: "Vegetable oil",
 	options: [
 		"Vegan oil",
-		"vegetable oil",
+		"Vegetable oil",
 		"Both a and b",
 		"Mineral oil",
 		"None of the above"
