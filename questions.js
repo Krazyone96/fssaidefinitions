@@ -727,6 +727,136 @@ numb: 56,
 ]
 },
 	
+	{
+	numb: 57,
+	question: "Adjudicating officer is appointed under __________ of the act",
+	answer: "a. sub-section (I) of section 68",
+	options: [
+		"a. sub-section (I) of section 68",
+		"b. sub-section (II) of section 68",
+		"c. sub-section (I) of section 70",
+		"d. sub-section (II) of section 70",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 58,
+	question: "Apellate Tribunal means Food Safety Apellate Tribunal constituted under ________ of the act",
+	answer: "b. Section 70",
+	options: [
+		"a. Section 68",
+		"b. Section 70",
+		"c. Section 36",
+		"d. Section 43",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 59,
+	question: "Authorised Officer means an officer authroized by the food authority under ________ of the act",
+	answer: "c. Section 47",
+	options: [
+		"a. Section 36",
+		"b. Section 68",
+		"c. Section 47",
+		"d. Section 70",
+		"e. None of the above"
+	]
+	},	
+
+	{
+	numb: 60,
+	question: "Inquiry is referred under ________ of the act",
+	answer: "d. Section 68",
+	options: [
+		"a. Section 36",
+		"b. Section 70",
+		"c. Section 43",
+		"d. Section 68",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 61,
+	question: "Authorised officer means an officer authorized by the Food authority under ________ of section 47 of the act",
+	answer: "a. sub-section 5",
+	options: [
+		"a. sub-section 5",
+		"b. sub-section 3",
+		"c. sub-section 7",
+		"d. sub-section 6",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 62,
+	question: "Designated officer is appointed under _______ of the act",
+	answer: "b. Section 36",
+	options: [
+		"a. Section 70",
+		"b. Section 36",
+		"c. Section 43",
+		"d. Section 68",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 63,
+	question: "Notified laboratory means any of the laboratories notified by the food authority under _________ of the act",
+	answer: "c. Section 43",
+	options: [
+		"a. Section 36",
+		"b. Section 68",
+		"c. Section 43",
+		"d. Section 70",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 64,
+	question: "Notified laboratory means any of the laboratories notified by the food authority under _______ of section 43 of the act",
+	answer: "d. Both a and b",
+	options: [
+		"a. sub-section 1",
+		"b. sub-section 2",
+		"c. only a",
+		"d. Both a and b",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 65,
+	question: "Presiding officer means a person appointed as a presiding officer of the Appelate tribunal under ________ of the act",
+	answer: "a. Section 70",
+	options: [
+		"a. Section 70",
+		"b. Section 68",
+		"c. Section 43",
+		"d. Section 36",
+		"e. None of the above"
+	]
+	},
+
+	{
+	numb: 66,
+	question: "________ means any of the laboratories established and/or recognized by the Food authority by notification under sub-section (2) of section 43 of the act",
+	answer: "b. Referral laboratory",
+	options: [
+		"a. Notified laboratory",
+		"b. Referral laboratory",
+		"c. Food laboratory",
+		"d. Both a and b",
+		"e. None of the above"
+	]
+	},	
+	
 ];
 
 
